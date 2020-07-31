@@ -80,7 +80,7 @@ namespace TestAPI
             var dec = (decimal)(1000) / maxCount;
             int numb = (int)Math.Ceiling(dec);
             int numCount = (int)Math.Ceiling((decimal)(1001) / maxCount);
-            int num1= (int)Math.Round((decimal)(1001)/ maxCount, 2);//两位小数
+            var decNum= Math.Round((decimal)(1001)/ maxCount, 2);//两位小数
             return null;
         }
     }

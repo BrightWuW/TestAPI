@@ -7501,11 +7501,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demo\\TestAPI\\TestAPI\\TestAPI.csproj",
+      "projectUniqueName": "D:\\Demo\\TestAPI\\TestAPI\\TestAPI\\TestAPI.csproj",
       "projectName": "TestAPI",
-      "projectPath": "D:\\Demo\\TestAPI\\TestAPI\\TestAPI.csproj",
+      "projectPath": "D:\\Demo\\TestAPI\\TestAPI\\TestAPI\\TestAPI.csproj",
       "packagesPath": "C:\\Users\\CBF\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\TestAPI\\TestAPI\\obj\\",
+      "outputPath": "D:\\Demo\\TestAPI\\TestAPI\\TestAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
