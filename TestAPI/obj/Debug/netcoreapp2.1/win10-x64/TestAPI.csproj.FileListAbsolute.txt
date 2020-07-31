@@ -1,0 +1,14 @@
+D:\Demo\TestAPI\TestAPI\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+D:\Demo\TestAPI\TestAPI\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+D:\Demo\TestAPI\TestAPI\bin\Debug\netcoreapp2.1\win10-x64\TestAPI.exe
+D:\Demo\TestAPI\TestAPI\bin\Debug\netcoreapp2.1\win10-x64\TestAPI.deps.json
+D:\Demo\TestAPI\TestAPI\bin\Debug\netcoreapp2.1\win10-x64\TestAPI.runtimeconfig.json
+D:\Demo\TestAPI\TestAPI\bin\Debug\netcoreapp2.1\win10-x64\TestAPI.runtimeconfig.dev.json
+D:\Demo\TestAPI\TestAPI\bin\Debug\netcoreapp2.1\win10-x64\TestAPI.dll
+D:\Demo\TestAPI\TestAPI\bin\Debug\netcoreapp2.1\win10-x64\TestAPI.pdb
+D:\Demo\TestAPI\TestAPI\obj\Debug\netcoreapp2.1\win10-x64\TestAPI.csprojAssemblyReference.cache
+D:\Demo\TestAPI\TestAPI\obj\Debug\netcoreapp2.1\win10-x64\TestAPI.csproj.CoreCompileInputs.cache
+D:\Demo\TestAPI\TestAPI\obj\Debug\netcoreapp2.1\win10-x64\TestAPI.AssemblyInfoInputs.cache
+D:\Demo\TestAPI\TestAPI\obj\Debug\netcoreapp2.1\win10-x64\TestAPI.AssemblyInfo.cs
+D:\Demo\TestAPI\TestAPI\obj\Debug\netcoreapp2.1\win10-x64\TestAPI.dll
+D:\Demo\TestAPI\TestAPI\obj\Debug\netcoreapp2.1\win10-x64\TestAPI.pdb
